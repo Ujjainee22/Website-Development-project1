@@ -1,4 +1,6 @@
-
 Web-Based Calculator
 
-This project is a web-based calculator built using HTML, CSS, and vanilla JavaScript. It supports basic arithmetic operations such as addition, subtraction, multiplication, and division, with real-time input validation to ensure accurate calculations. The project demonstrates essential front-end development skills, focusing on JavaScript functionality, user-friendly UI design, and interactive web elements.
+Developed a simple, interactive calculator using HTML, CSS, and vanilla JavaScript, supporting basic arithmetic operations with real-time input validation for accuracy and usability.
+
+Technologies: HTML, CSS, JavaScript
+Skills: Front-End Development, JavaScript
